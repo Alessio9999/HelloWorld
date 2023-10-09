@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args)
     {
-        System.out.println("Привет мир!;-)");
-        System.out.println("Это мое первое приложение на JAVA!:-)");
+        System.out.println("Hello world!");
     }
 }
